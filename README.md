@@ -9,7 +9,7 @@
 
 ## Instalação:
 
-- `npx create-expo-app@latest`
+- `npx create-expo-app --template `
 - `npm i ou npm install`
 
 ## Para rodar:

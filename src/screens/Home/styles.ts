@@ -4,6 +4,7 @@ export const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 32,
+
   },
   header: {
     width: '100%',
@@ -16,5 +17,11 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     backgroundColor: '#F2F2F2',
+  },
+  options: {
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'flex-end',
+    gap: 7
   }
 });
