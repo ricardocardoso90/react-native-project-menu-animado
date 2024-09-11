@@ -1,4 +1,4 @@
-## Projeto: Ignite Gym
+## Projeto: Menu Animado
 
 **Tecnologias utilizadas:**
 
